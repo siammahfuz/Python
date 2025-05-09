@@ -50,7 +50,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Python.git
+git clone https://github.com/siammahfuz/Python
 cd Python
 Run any script using Python:
 
